@@ -4,12 +4,14 @@ def third_challenge
       :patriarch => {
         #your key/value pairs here
         :name => [],
-        :age =>  []
+        :age =>  [],
+        :status =>  []
         },
       :matriarch => {
         #your key/value pairs here
         :name => [],
-        :age =>  []
+        :age =>  [],
+        :status =>  []
         },
       :hero => {
         #your key/value pairs here
