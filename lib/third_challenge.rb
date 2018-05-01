@@ -17,8 +17,6 @@ def third_challenge
         :age =>  []
         },
       :hero_friends => []
-      :name => [],
-      :age =>  []
    },
    :capulet => {
       :patriarch => {
